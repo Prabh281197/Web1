@@ -15,6 +15,7 @@ This is outer div tag
 <div class="inner-div">
 contains this Inner - div tag.
 </div>
+</div>
 </html>
 
 
