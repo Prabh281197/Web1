@@ -1,0 +1,20 @@
+<!doctype html>
+<head>
+<style>
+.outer-div{
+width: 960px;
+color: navy;
+background-color: pink;
+border: 2px solid darkblue;
+padding: 5px;+
+</style>
+</head>
+
+<div class="outer-div">
+This is outer div tag
+<div class="inner-div">
+contains this Inner - div tag.
+</div>
+</html>
+
+
